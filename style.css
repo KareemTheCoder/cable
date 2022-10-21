@@ -1,0 +1,54 @@
+* {
+    background-image: url(back.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-clip: border-box;
+    text-decoration: none;
+    color: black;
+}
+
+.content {
+    font-family: sans-serif;
+    width: 100%;
+    height: 100%;
+}
+
+.watchcable {
+    border: 1px solid black;
+    height: 3cm;
+    width: 2.5cm;
+    margin: 2px;
+    position: relative;
+    left: 10%;
+    bottom: 70%;
+    text-align: center;
+    background: none;
+}
+
+.txt {
+    text-align: center;
+}
+
+.watchcable h5 {
+    position: relative;
+    bottom: -22%;
+    background: none;
+
+}
+
+.watchcable:hover {
+    background-color: blueviolet;
+}
+
+.meeting {
+    text-decoration: underline;
+    color: blue;
+}
+
+.bus {
+    text-decoration: underline;
+    color: blue;
+}
+
+
+ 
